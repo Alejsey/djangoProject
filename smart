@@ -1,0 +1,16 @@
+    {
+        "id": "1",
+        "title": "Title1",
+        "description": "Description1",
+        "body": "sfgjk,hmgnbfghmj,hmgnbfvd",
+        "author": 1
+    }
+
+
+{
+    "user": "admin",
+    "body": "post",
+    "article":1,
+    "parent": 1
+}
+
